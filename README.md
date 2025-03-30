@@ -39,6 +39,8 @@ Losef's Text-based User Interface(Loseftui，后面简称lui)是一个主要面�
 
 照上面的命令操作,  您就可以只需一个步骤编译lui。
 
+如果您下载的是官方的Loseftui，他一般会在makefile同目录的目录build里
+
 ## 贡献&Git规范标准
 
 CMTMSG规范
