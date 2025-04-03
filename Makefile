@@ -7,7 +7,6 @@ CFLAGS = -std=c++11 -Wall -Wextra -Werror -I src/desktop/include -I src/tool/inc
 DESKTOP_SOURCES = $(wildcard src/desktop/*.cpp)
 TOOL_SOURCES = $(wildcard src/tool/*.cpp)
 API_SOURCES = $(wildcard src/api/*.cpp)
-
 #源文件指向
 SOURCES = boot.cpp $(DESKTOP_SOURCES) $(TOOL_SOURCES) $(API_SOURCES)
 
